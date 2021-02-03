@@ -1,0 +1,1 @@
+<td align="center"><a href="javascript:void(0)" data-id="{{ $item->id }}" class="update-row" title="Edit"><i class="fa fa-pencil" aria-hidden="true" style="font-size: 24px; color:#333333"></i></a></td>
